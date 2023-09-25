@@ -1,4 +1,4 @@
 # DataScience
-<h1>Data Science Implementations</h1>
+Data Science Implementations
 <br>
 Author - Udisha Kaura
